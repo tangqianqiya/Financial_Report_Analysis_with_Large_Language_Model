@@ -45,7 +45,7 @@ Financial_Reports_Analyzer_RAG_with_DeepSeek_R1/
 ## 🔧 Installation
 ### 1️⃣ **Clone the repository**
 ```sh
-git clone https://github.com/EasonJia9598/financial_rag.git
+git https://github.com/tangqianqiya/Financial_Report_Analysis_with_Large_Language_Model.git
 cd financial_rag
 ```
 

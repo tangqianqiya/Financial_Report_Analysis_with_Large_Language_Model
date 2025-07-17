@@ -7,7 +7,7 @@ setup(
     author_email="tangqianqiya@gmail.com",
     description="Financial Report Analysis with Large Language Model",
     long_description_content_type="text/markdown",
-    url="https://github.com/EasonJia9598/Financial_Reports_Analyzer_RAG_with_DeepSeek_R1",  # Replace with your actual repository URL
+    url="https://github.com/tangqianqiya/Financial_Report_Analysis_with_Large_Language_Model.git",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
